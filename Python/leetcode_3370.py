@@ -1,7 +1,3 @@
-'''Module providing a function printing python version.'''
-from typing import List
-
-
 class Solution1:
     '''
         3370. Smallest Number With All Set Bits
