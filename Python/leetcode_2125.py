@@ -22,5 +22,5 @@ class Solution:
         return total_beams
 
 # Example
-# print(Solution().numberOfBeams(["011001", "000000", "010100", "001000"]))
-# print(Solution().numberOfBeams(["000", "111", "000"]))
+print(Solution().numberOfBeams(["011001", "000000", "010100", "001000"]))
+print(Solution().numberOfBeams(["000", "111", "000"]))
