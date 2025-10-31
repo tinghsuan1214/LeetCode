@@ -1,4 +1,3 @@
-'''Module providing a function printing python version.'''
 from typing import List
 
 class Solution:
